@@ -19,5 +19,8 @@
 6. Al aprobarse, se hace merge a `develop`.
 7. La rama `master` se reserva para la versión final estable (GA).
 
+## Diagrama de Arquitectura
+
+![Diagrama de Arquitectura](diagrama-arquitectura.png)
 
 
